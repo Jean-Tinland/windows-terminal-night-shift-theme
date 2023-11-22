@@ -1,0 +1,23 @@
+{
+  "background": "#F5F5F5",
+  "black": "#141B27",
+  "blue": "#6DB3CE",
+  "brightBlack": "#141B27",
+  "brightBlue": "#6DB3CE",
+  "brightCyan": "#2FC2C3",
+  "brightGreen": "#8FC8BB",
+  "brightPurple": "#AD82CB",
+  "brightRed": "#E78482",
+  "brightWhite": "#FFFFFF",
+  "brightYellow": "#E0B972",
+  "cursorColor": "#141B27",
+  "cyan": "#2FC2C3",
+  "foreground": "#1E2737",
+  "green": "#8FC8BB",
+  "name": "Day Shift",
+  "purple": "#AD82CB",
+  "red": "#E78482",
+  "selectionBackground": "#98A8C5",
+  "white": "#FFFFFF",
+  "yellow": "#E0B972"
+}
